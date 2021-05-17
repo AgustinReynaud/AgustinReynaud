@@ -1,11 +1,8 @@
-Hola!! 👋
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/image.png)
 
 💻📞 Actualmente desarrollo en con JS, React js ,Redux, Nodejs , Postgress || Mongo.
 
 📫  Contactame :  https://www.linkedin.com/in/agustinreynaud/
-
-
-![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/image.png)
 
 
 Lenguajes 🛠️
