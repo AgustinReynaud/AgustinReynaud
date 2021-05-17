@@ -5,7 +5,7 @@ Hola!! 👋
 📫  Contactame :  https://www.linkedin.com/in/agustinreynaud/
 
 
-![Test Image 1]
+
 
 
 Lenguajes 🛠️
