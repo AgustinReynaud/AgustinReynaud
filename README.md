@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**AgustinReynaud/AgustinReynaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻📞 Actualmente desarrollo en con JS, React js ,Redux, Nodejs , Postgress || Mongo.
 
-Here are some ideas to get you started:
+📫  Contactame :  https://www.linkedin.com/in/agustinreynaud/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+Lenguajes 🛠️
+
+✅ JavaScript (ES6)
+
+🔶 Front-End 
+✅ HTML5 - CSS3 - React -  Redux - Tailwind 
+
+🔶 Back-End🔩
+✅ Node.js - Express.js - Sequelize ORM - PostgreSQL  - MongoDB 
