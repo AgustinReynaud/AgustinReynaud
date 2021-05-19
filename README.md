@@ -14,3 +14,11 @@ Lenguajes 🛠️
 
 🔶 Back-End🔩
 ✅ Node.js - Express.js - Sequelize ORM - PostgreSQL  - MongoDB 
+
+
+🔶 PROYECTO EN PROCESO 
+
+🔶https://e-commerce-g6.netlify.app/
+
+✅ PROYECTO TERMINADO
+✅
