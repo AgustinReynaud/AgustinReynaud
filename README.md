@@ -21,14 +21,7 @@ Lenguajes 🛠️
 🔶https://e-commerce-g6.netlify.app/
 
 ✅ PROYECTO TERMINADO
-✅ Imagenes : 
-
-Landing Page:
-
-![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c1.png)
-
-Home: 
-![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c2.png)
+✅ Imagenes en README : https://github.com/AgustinReynaud/Countries-
 
 
 
