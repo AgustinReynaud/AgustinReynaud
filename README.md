@@ -22,5 +22,14 @@ Lenguajes 🛠️
 
 ✅ PROYECTO TERMINADO
 ✅ Imagenes : 
-Landing Page
+
+Landing Page:
+
 ![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c1.png)
+
+Home: 
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c2.png)
+
+
+
+
